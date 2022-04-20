@@ -8,14 +8,14 @@ GitHub Pages:
 
 Caixas de Diálogo
 
-- [ ] prompt
-- [ ] alert
-- [ ] confirm
+- [x] prompt
+- [x] alert
+- [x] confirm
 
 Temporizadores
 
 - [ ] setInterval
-- [ ] setTimeout
+- [x] setTimeout
 
 Funções
 
@@ -24,9 +24,9 @@ Funções
 - [ ] Função anônima com retorno
 - [ ] Função auto-executável
 - [ ] Função com nome
-- [ ] Função aninhada/local - declarar uma função dentro de outra
-- [ ] Passagem de uma função como parâmetro
-- [ ] Função Flecha - Arrow Function
+- [x] Função aninhada/local - declarar uma função dentro de outra
+- [x] Passagem de uma função como parâmetro
+- [x] Função Flecha - Arrow Function
 
 Eventos
 
@@ -40,7 +40,7 @@ Eventos
 Acesso aos elementos DOM do HTML
 
 - [ ] Via referência DOM pelo id do elemento HTML
-- [ ] Via getElementByID()
+- [x] Via getElementByID()
 - [ ] Via getElementsByName()
 - [ ] Via getElementsByTagName()
 - [ ] Via seletores CSS usados na função querySelector() ou querySelectorAll()
@@ -79,9 +79,9 @@ Formulário
 
 - [ ] Validação de formulário com onsubmit usando os métodos tradicionais
 - [ ] Validação de formulário com HTML5 API
-  - [ ] Customizar as mensagens nos balões de mensagem
-  - [ ] Usar os atributos de validação dos inputs
-  - [ ] Usar expressões regulares
+- [ ] Customizar as mensagens nos balões de mensagem
+- [ ] Usar os atributos de validação dos inputs
+- [ ] Usar expressões regulares
 - [ ] Ler e escrever em elementos input com a propriedade value
 - [ ] Alterar o conteúdo de elementos div ou p com a propriedade innerHTML ou textContent
 - [ ] Manipulação de elemento de listagem, como checkbox, radio ou select
