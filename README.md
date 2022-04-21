@@ -14,7 +14,7 @@ Caixas de Diálogo
 
 Temporizadores
 
-- [ ] setInterval
+- [x] setInterval
 - [x] setTimeout
 
 Funções
@@ -23,7 +23,7 @@ Funções
 - [ ] Função anônima sem argumento
 - [ ] Função anônima com retorno
 - [ ] Função auto-executável
-- [ ] Função com nome
+- [x] Função com nome
 - [x] Função aninhada/local - declarar uma função dentro de outra
 - [x] Passagem de uma função como parâmetro
 - [x] Função Flecha - Arrow Function
@@ -39,7 +39,7 @@ Eventos
 
 Acesso aos elementos DOM do HTML
 
-- [ ] Via referência DOM pelo id do elemento HTML
+- [x] Via referência DOM pelo id do elemento HTML
 - [x] Via getElementByID()
 - [ ] Via getElementsByName()
 - [ ] Via getElementsByTagName()
